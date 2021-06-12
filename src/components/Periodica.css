@@ -1,0 +1,98 @@
+html {
+    height: 130%;
+    margin: 0;
+    background-repeat:inherit ;
+    background-image: linear-gradient(#000000,  #210a88);
+  }
+  
+  body {
+    height: 100%;
+   
+  }
+  .prueba1{
+    background-color:'#5C8BA7';
+    width:78;
+    height:83;
+    border-radius:6;
+    align-items:'center';
+
+  
+}
+
+.Btn {
+  
+width:78px;
+height:83px;
+border-Radius:6px;
+align-Items:'center'
+}
+
+
+
+.Btn0 {
+    
+    font-size:15px;
+    color: #000000;
+    background-color:transparent;
+    border-color: transparent;
+  
+    }
+    
+    
+    
+    .Btn1 {
+      height:50px;
+      font-size:1px;
+      color: #000000;
+      background-color:transparent;
+      border-color:transparent;
+      width:77px;
+    }
+
+    .Btn8 {
+      height:50px;
+      font-size:1px;
+      color: #000000;
+      background-color:transparent;
+      border-color:transparent;
+      width:82px;
+    }
+
+    .Btn7 {
+      height:50px;
+      font-size:1px;
+      color: #000000;
+      background-color:transparent;
+      border-color:transparent;
+      width:70px;
+    }
+
+    
+    
+    .Btn2 {
+    width:82px;
+    height:50px;
+    font-size:1px;
+    color: #000000;
+    background-color:transparent;
+      border-color:transparent;
+    }
+    
+    
+    
+    .Acl {
+    width:120px;
+    height:40px;
+    font-size:0px;
+    color:'black';
+    background-color:transparent;
+      border-color:transparent; 
+    }
+    
+    p {
+      text-align: center;
+      }
+
+     .Imagen{
+        height: 80px;
+    }

@@ -1,0 +1,44 @@
+html {
+    height: 100%;
+    
+    align-items: center;
+    background: rgb(0,12,52);
+    background: linear-gradient(90deg, rgba(0,12,52,1) 0%, rgba(15,81,94,1) 40%, rgba(2,246,189,1) 100%);
+    background-repeat:inherit ;
+  }
+
+.H1{
+  color: purple;
+  font-style:italic;
+    font-size: 50px;
+}
+
+.Rt1{
+    font-size: 50px;
+    font-style:italic;
+    color: red;
+  }
+  
+  
+
+  .Btn2{
+
+    background-color:#5C8BA7;
+    width:500px;
+    height:500px;
+    border-radius: 6px;
+    border-style:none;
+    align-Items:'center';
+
+  }
+  .Cuadro{
+
+    size: (1/32)px;
+    align-Items:'bottom';
+ 
+
+  }
+
+  .Imagen{
+    height: 80px;
+}
